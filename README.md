@@ -3,6 +3,16 @@
 ## 📖 Overview
 This repository showcases a collection of hands-on projects designed to demonstrate practical skills in **Microsoft Sentinel**, providing experience with key Security Operations Center (SOC) tasks. Each project simulates real-world scenarios to develop expertise in threat detection, automation, and visualization using Microsoft Sentinel.
 
+## 📑 Table of Contents
+- [Initial Azure Setup](#1-initial-azure-setup)
+- [Integrating Data Connectors](#2-integrating-data-connectors)
+- [Integrating Microsoft Defender & Creating Indicators of Compromise (IoCs)](#3-integrating-microsoft-defender--creating-indicators-of-compromise-iocs)
+- [Threat Detection (Analysis)](#4-threat-detection-analysis)
+- [Playbooks and Logic Apps](#5-playbooks-and-logic-apps)
+- [Visualizing Data with Workbooks](#6-visualizing-data-with-workbooks)
+- [Real-World Application in a SOC](#🌐-real-world-application-in-a-soc)
+- [Conclusion](#✅-conclusion)
+
 ---
 
 ## 🚀 Projects
