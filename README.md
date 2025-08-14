@@ -10,32 +10,36 @@ This repository showcases a collection of hands-on projects designed to demonstr
 ### 1. ⚙️ Initial Azure Setup
 This project covers the foundational setup of Microsoft Sentinel in an Azure environment, including:
 - Creating and configuring a Sentinel workspace.
-- Connecting log sources from Azure and on-premises environments.
-- Setting up data connectors to ingest security events.
 - Ensuring compliance with baseline security policies.
 
-### 2. 🔍 Threat Detection (Analysis)
+### 2. 🔗 Integrating Data Connectors
+This project demonstrates how to connect and ingest data from various sources into Sentinel:
+- Configuring Azure and on-premises data connectors.
+- Enabling continuous monitoring and event collection for SOC analysis.
+- Preparing the environment for threat detection and automation.
+
+### 3. 🛡️ Integrating Microsoft Defender & Creating Indicators of Compromise (IoCs)
+This project enhances threat intelligence and detection capabilities:
+- Integrating **Microsoft Defender** data into Sentinel.
+- Creating custom IoCs to track malicious activity.
+- Correlating multiple data sources to improve detection accuracy.
+- Maintaining a threat intelligence repository for ongoing analysis.
+
+### 4. 🔍 Threat Detection (Analysis)
 Focused on identifying and analyzing security threats, this project includes:
 - Creating analytics rules to detect suspicious activity.
 - Using Microsoft Sentinel query language (KQL) for event analysis.
 - Generating incidents from detected threats.
 - Performing root cause analysis and prioritizing alerts.
 
-### 3. 🛡️ Integrating Microsoft Defender & Creating Indicators of Compromise (IoCs)
-This project demonstrates how to enhance threat intelligence by:
-- Integrating **Microsoft Defender** data into Sentinel.
-- Creating custom IoCs to track malicious activity.
-- Correlating multiple data sources to improve detection accuracy.
-- Maintaining a threat intelligence repository for ongoing analysis.
-
-### 4. 🤖 Playbooks and Logic Apps
+### 5. 🤖 Playbooks and Logic Apps
 Automation in incident response is covered in this project, including:
 - Designing **playbooks** to automate repetitive SOC tasks.
 - Utilizing Azure Logic Apps to respond to security incidents.
 - Configuring notifications, remediation actions, and workflow triggers.
 - Testing automation scenarios in a controlled environment.
 
-### 5. 📊 Visualizing Data with Workbooks
+### 6. 📊 Visualizing Data with Workbooks
 This project highlights data visualization and reporting skills:
 - Creating Sentinel **workbooks** to monitor security metrics.
 - Designing dashboards for executive reporting and SOC monitoring.
