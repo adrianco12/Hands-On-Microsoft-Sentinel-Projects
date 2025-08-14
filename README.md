@@ -1,10 +1,10 @@
 # 🛡️ Microsoft Sentinel Projects
 
 ## 📖 Overview
-This repository showcases a collection of hands-on projects designed to demonstrate practical skills in **Microsoft Sentinel**, providing experience with key Security Operations Center (SOC) tasks. Each project simulates real-world scenarios to develop expertise in threat detection, automation, and visualization using Microsoft Sentinel.
+This repository showcases a collection of hands-on projects designed to demonstrate practical skills in **Microsoft Sentinel**, providing experience with key Security Operations Center (SOC) tasks and SIEM/SOAR environments. Each project simulates real-world scenarios to develop expertise in threat detection, automation, and visualization using Microsoft Sentinel.
 
 ## 📑 Table of Contents
-- [Initial Azure Setup](#./Sentinel-Set-Up.pdf)
+- [Initial Azure Setup](./Sentinel-Set-Up.pdf)
 - [Integrating Data Connectors](#2-integrating-data-connectors)
 - [Integrating Microsoft Defender & Creating Indicators of Compromise (IoCs)](#3-integrating-microsoft-defender--creating-indicators-of-compromise-iocs)
 - [Threat Detection (Analysis)](#4-threat-detection-analysis)
