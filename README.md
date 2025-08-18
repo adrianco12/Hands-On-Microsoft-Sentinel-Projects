@@ -6,12 +6,12 @@ This repository showcases a collection of hands-on projects designed to demonstr
 ## 📑 Table of Contents
 - [Initial Azure Setup](Sentinel-Set-Up.pdf)
 - [Integrating Data Connectors](Data-Connectors-in-Microsoft-Sentinel.pdf)
-- [Integrating Microsoft Defender & Creating Indicators of Compromise (IoCs)](#3-integrating-microsoft-defender--creating-indicators-of-compromise-iocs)
-- [Threat Detection (Analysis)](#4-threat-detection-analysis)
-- [Playbooks and Logic Apps](#5-playbooks-and-logic-apps)
-- [Visualizing Data with Workbooks](#6-visualizing-data-with-workbooks)
-- [Real-World Application in a SOC](#🌐-real-world-application-in-a-soc)
-- [Conclusion](#✅-conclusion)
+- [Integrating Microsoft Defender & Creating Indicators of Compromise (IoCs)](Integrating-MS-Defender-and-IoC.pdf)
+- [Threat Detection (Analysis)](Threat-Detection-(Analytics)-in-Sentinel.pdf)
+- [Playbooks and Logic Apps](Playbooks-and-Logic-Apps.pdf)
+- [Visualizing Data with Workbooks](Visualize-Security-Data-in-MS-Sentinel.pdf)
+- Real-World Application in a SOC
+- Conclusion
 
 ---
 
