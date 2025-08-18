@@ -17,7 +17,7 @@ This repository showcases a collection of hands-on projects designed to demonstr
 
 ## 🚀 Projects
 
-### 1. ⚙️ Initial Azure Setup
+### 1. ⚙️ [Initial Azure Setup](Sentinel-Set-Up.pdf)
 This project covers the foundational setup of Microsoft Sentinel in an Azure environment, including:
 - Creating and configuring a Sentinel workspace.
 - Ensuring compliance with baseline security policies.
